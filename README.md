@@ -5,8 +5,6 @@ Nach Ablauf eines Countdowns wird automatisch die Route zum nächstgelegenen Par
 Das Projekt ist in Kotlin geschrieben und bindet neben der Google Maps-API auch die Google Places-
 und Google Directions-API ein.
 
----
-
 ## Features
 
 - **GPS-Positionierung**: Erkennt den aktuellen Standort in Echtzeit.
@@ -14,10 +12,3 @@ und Google Directions-API ein.
 und die Routenberechnung aus.
 - **Routenberechnung**: Integriert die Google Maps-, Google Places- und Google Directions-APIs,
 um eine Karte anzuzeigen, den nächsten Parkplatz zu ermitteln und die Route zu zeichnen.
-- **Kotlin + Android**: Modernes Android-Projekt basierend auf Kotlin und Jetpack-Features.
-
----
-
-## Screenshots
-
-![]()
