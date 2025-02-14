@@ -26,7 +26,7 @@ class Location(private val activity: Activity, private val map: GoogleMap) {
 
     companion object {
         private const val LOCATION_PERMISSION_REQUEST_CODE = 1
-        private const val DIRECTIONS_API_KEY = "AIzaSyAXPdsbCHSjG2VcpBmPTQDVpQ5LFZNVHQo"
+        private const val DIRECTIONS_API_KEY = BuildConfig.MAPS_API_KEY
     }
 
     fun enableUserLocation() {
