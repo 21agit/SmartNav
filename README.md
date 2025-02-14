@@ -14,4 +14,4 @@ und die Routenberechnung aus.
 um eine Karte anzuzeigen, den nächsten Parkplatz zu ermitteln und die Route zu zeichnen.
 
 ## Demo-Video
-![](demovid.gif)
+![](./assets/demovid.gif)
